@@ -3,7 +3,7 @@ from PIL import image, ImageTk
 root = tk.Tk() #tworzenie okna 
 
 root.title("bomb clicker")
-root.geometry("800x600+500+200") 
+root.geometry("800x600") 
 root.iconbitmap("icon.ico")
 root.resizable(False, False) 
 
